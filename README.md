@@ -1,10 +1,11 @@
 # DrawObjectEditor
 
-Implementation of Drawing Panel with Java
+## Implementation of Drawing Panel with Java
 
-Object-oriented programming and Java
+---
 
 DrawObjectEditor is a Program where users can draw line, circle, triangle and quadrilateral. 
+
 The created graphics can be selected, then user can move, copy, delete, randomly color the graphics object.
 
 User can save and restore the state of the graphics objects by Save/Load/Export/Import functions (IO funnctions)
